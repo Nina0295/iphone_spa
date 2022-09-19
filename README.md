@@ -1,3 +1,3 @@
-# Iphone_Project
+# iphone_spa
 Интернет-магазин Iphone
 Навыки, которые прокачивала:JS
